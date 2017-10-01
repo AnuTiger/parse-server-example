@@ -28,3 +28,7 @@ node_modules
 
 # Emacs
 *~
+
+# Custom
+index.js.bak
+package-lock.json
